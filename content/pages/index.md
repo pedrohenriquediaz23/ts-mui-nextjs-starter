@@ -6,8 +6,8 @@ sections:
     title: "boas vindas ao\_Infinity Cloud"
     subtitle: Cloud game focada em computacao em nuuvem
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
+      *caso ainda* nao **conheça *sobre* computação *em nuvem e cloud games por
+      favor leia aqui no link ao lado.* [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
