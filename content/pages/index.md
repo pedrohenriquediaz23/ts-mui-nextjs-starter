@@ -6,9 +6,9 @@ sections:
     title: "boas vindas ao\_Infinity Cloud"
     subtitle: Cloud game focada em computacao em nuuvem
     text: >
-      *caso ainda* nao **conheça *sobre* computação *em nuvem e cloud games por
-      favor leia aqui no link ao lado.* [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      *caso ainda* nao \*\*conheça *sobre* computação *em nuvem e cloud games
+      por favor leia aqui no link ao lado.* [Ler
+      mais.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
         label: Start Building
